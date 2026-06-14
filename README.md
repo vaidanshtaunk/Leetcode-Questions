@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+## Depth-First Search
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
