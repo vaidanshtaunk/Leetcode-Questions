@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 ## Monotonic Stack
 |  |
 | ------- |
