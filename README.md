@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
