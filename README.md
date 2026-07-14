@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
