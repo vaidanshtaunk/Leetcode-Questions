@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 ## Hash Table
 |  |
 | ------- |
