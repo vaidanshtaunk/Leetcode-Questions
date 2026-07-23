@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
+| [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
 ## Recursion
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
