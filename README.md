@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0135-candy) |
 ## Bit Manipulation
