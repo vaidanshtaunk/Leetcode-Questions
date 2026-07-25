@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
