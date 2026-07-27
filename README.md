@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0027-remove-element) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
