@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
