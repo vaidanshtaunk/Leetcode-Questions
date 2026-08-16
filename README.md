@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0125-valid-palindrome) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [3174-clear-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
