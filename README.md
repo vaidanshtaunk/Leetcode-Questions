@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0394-decode-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
