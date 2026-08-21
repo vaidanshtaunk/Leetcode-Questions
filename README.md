@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 ## Simulation
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
