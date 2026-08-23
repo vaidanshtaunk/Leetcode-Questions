@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 ## Monotonic Stack
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 ## Geometry
 |  |
 | ------- |
@@ -236,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
