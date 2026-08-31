@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
