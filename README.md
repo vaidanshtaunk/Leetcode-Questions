@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
