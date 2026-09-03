@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [3174-clear-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Math
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
 ## Recursion
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
