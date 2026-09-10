@@ -159,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Iterator
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0258-add-digits) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
