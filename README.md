@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0068-text-justification) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
