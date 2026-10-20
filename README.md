@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1340-jump-game-v](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [1340-jump-game-v](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1340-jump-game-v) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0414-third-maximum-number) |
+| [1340-jump-game-v](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
