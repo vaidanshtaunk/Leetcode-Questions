@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
