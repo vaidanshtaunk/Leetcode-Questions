@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0335-self-crossing](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0335-self-crossing) |
+| [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
