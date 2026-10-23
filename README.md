@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
