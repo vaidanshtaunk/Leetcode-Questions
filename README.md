@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1254-number-of-closed-islands](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1340-jump-game-v](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1598-crawler-log-folder](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1598-crawler-log-folder) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0341-flatten-nested-list-iterator) |
+| [1254-number-of-closed-islands](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Iterator
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0221-maximal-square) |
+| [1254-number-of-closed-islands](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/3886-sum-of-sortable-integers) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vaidanshtaunk/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
